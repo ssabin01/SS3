@@ -1,4 +1,4 @@
-# Schwab-Blows-2 — Deterministic Options Analytics & Trade Comparison (AegisRisk)
+# SS3— Deterministic Options Analytics & Trade Comparison (AegisRisk)
 
 **Status:** Normative  
 **Version:** 0.1  
